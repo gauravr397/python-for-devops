@@ -11,6 +11,7 @@ You will create a Python script that:
 - Prints the result to the **terminal**
 
 This is your first step towards thinking like a DevOps engineer using Python.
+<img width="1399" height="647" alt="image" src="https://github.com/user-attachments/assets/ab66e7dd-201b-46e8-a644-9cecfe29b7b4" />
 
 
 
