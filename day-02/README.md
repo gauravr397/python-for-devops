@@ -13,6 +13,7 @@ You will create a Python script that:
 - Saves the processed data into a **JSON file**
 
 This task helps you understand how DevOps engineers work with APIs and structured data.
+<img width="2751" height="1532" alt="image" src="https://github.com/user-attachments/assets/ea308930-a8e4-43de-b1d4-84cd37f5bedf" />
 
 
 ## Expected Output
