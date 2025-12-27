@@ -1,7 +1,9 @@
 import sys
 import urllib3
+import pdb
 
 def analyze_log(input_file_path):
+    # pdb.set_trace()
     log_count={
         "INFO":0,
         "WARNING":0,
