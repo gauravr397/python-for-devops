@@ -17,6 +17,8 @@ def analyze_log(input_file_path):
                     log_count["WARNING"]+=1
                 elif "ERROR" in line:
                     log_count["ERROR"]+=1
+                else:
+                    pass
                 
         return log_count
 
