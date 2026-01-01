@@ -1,13 +1,11 @@
 {
-    "s3_bucket": [
-        "boto3-test-raghav"
-    ],
+    "s3_bucket": [],
     "ec2_instance": [
         {
-            "InstanceId": "i-0398c77c33a2f7315",
+            "InstanceId": "i-0d170a665215ff13f",
             "InstanceType": "t3.micro",
             "State": "running",
-            "LaunchTime": "2025-12-30 15:32:48+00:00"
+            "LaunchTime": "2026-01-01 16:01:42+00:00"
         }
     ]
 }
